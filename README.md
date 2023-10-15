@@ -23,6 +23,6 @@ For load an eimr file, you will need to follow this step by step (not that's har
 -Step 3: Open this file\
 ![img6](/readme_images/img6.png)\
 And then you're good to go, you know hom to make a file, save it, and open it!\
-#What next?
+# What next?
 For the next release, i work for a way to modify the argument, dont get just Name, Age, and job\
 I hope you will love use this program for the fun, or for your enterprise!
