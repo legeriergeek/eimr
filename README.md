@@ -8,4 +8,4 @@ Once you get these two things, launch the executable (or the .jar for mac and li
 # How to use it?
 It's simple!\
 For make a valid eimr file (it's json, but anyways) you will need to follow this patern:\
-!|[img1](/readme_images/img1.png)
+![img1](/readme_images/img1.png)
