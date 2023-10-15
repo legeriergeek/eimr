@@ -1,4 +1,4 @@
-#⚠️THIS IS THE DEV BRANCH⚠️
+# ⚠️THIS IS THE DEV BRANCH⚠️
 This is the dev branch, that's mean that not all the things you download from this branch is correct, so, be sure of what you doing!
 # Employee Info Modifier and Reader
 Employee Info Modifier and Reader (EIMR) is an in developpement employee management app written only in java by me and ChatGPT! 
