@@ -16,4 +16,13 @@ When the popup for save it appears, make sure that's you file is with the extens
 
 For load an eimr file, you will need to follow this step by step (not that's hard but anyways, like that's even the most unknown to computers can use it:\
 
--Step 1: click on the load button
+-Step 1: click on the load button\
+![img4](/readme_images/img4.png)\
+-Step 2: Found where you put the file you want to open\
+![img5](/readme_images/img5.png)\
+-Step 3: Open this file\
+![img6](/readme_images/img6.png)\
+And then you're good to go, you know hom to make a file, save it, and open it!\
+#What next?
+For the next release, i work for a way to modify the argument, dont get just Name, Age, and job\
+I hope you will love use this program for the fun, or for your enterprise!
